@@ -1,1 +1,6 @@
 admin.php
+kontrol.php
+yonetim.php
+admin
+admin/index.php
+index.php
