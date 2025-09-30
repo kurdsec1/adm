@@ -1,1 +1,5 @@
-jsje
+giris.php
+yonetim.php
+kontrol.php
+gir.php
+sus.php
