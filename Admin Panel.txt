@@ -16,6 +16,7 @@ sitepanel/
 giriss/
 admingap/
 Panel/
+trex/
 -admin/
 adminmod/
 yonet/
