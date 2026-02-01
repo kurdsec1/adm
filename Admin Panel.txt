@@ -77,7 +77,7 @@ _administrator/
 _administrator_/
 a/
 _npanel
-yonetici
+yonetici/
 admin_panel/
 adm_cp/
 ntplus/
