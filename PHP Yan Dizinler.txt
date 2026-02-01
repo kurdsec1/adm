@@ -8,7 +8,6 @@ duyuruekle.php
 galeri.php
 hakkimizda.php
 haber_duzenle.php
-haberdüzenle.php
 haberekle.php
 haberler.php
 hizmetler.php
