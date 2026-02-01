@@ -23,6 +23,7 @@ yonet/
 panelgiris/
 adminson/
 adminx/
+yonetim
 xadmin/
 adminc/
 panelx/
