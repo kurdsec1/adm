@@ -1,4 +1,3 @@
-index.php
 home.php
 dashboard.php
 main.php
