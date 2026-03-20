@@ -1043,16 +1043,6 @@ ilanlar_yonetim.php
 ilanlar_yorum.php
 ilanlar_yorumlar.php
 ilanlar_yukle.php
-index-cihaz-yonetici.php
-index-cihaz-yonetici_v2.php
-index-cihaz-yonetici_v3.php
-index-cihaz-yonetici_v3_1.php
-index-cihaz-yonetici_v4.php
-index-cihaz-yonetici_v5.php
-index-cihaz-yonetici_v6.php
-index-cihaz-yonetici_v7.php
-index-cihaz-yonetici_v8.php
-index.php
 insaat_ekle.php
 irsaliye_ekle.php
 is-amortisman-duzenle.php
@@ -1090,7 +1080,6 @@ giris.php
 guvenli_cikis.php
 header.php
 iller.php
-index.php
 kvkkexcelexport.php
 login.php
 manager.php
